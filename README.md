@@ -1,6 +1,6 @@
 # Real‑Time Movie Recommendation System (Django + NCF)
 
-**Author:** Rockey Thakur  
+**Author:** Ayush Pratap Singh  
 **Updated:** 2025-08-28 07:02
 
 ## Overview
